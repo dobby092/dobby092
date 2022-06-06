@@ -1,7 +1,7 @@
 - Hi, I’m Damian
 - I’m interested in data science
 - I’m currently learning Python and R tools
-- I’m looking to collaborate on projects related to engineering, chemistry or biology
+- I’m looking to collaborate on projects related to engineering, data science, chemistry or biology
 - 📫 email:
          damleg9@gmail.com
 
